@@ -1,0 +1,16 @@
+.left__content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.left__inner__content {
+  width: 50%;
+}
+
+.left__inner__content h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+  color: #207bed;
+  font-weight: 700;
+}
