@@ -9,8 +9,12 @@
 }
 
 .left__inner__content h1 {
-  font-size: 3rem;
+  font-size: clamp(3rem, 7vw, 5rem);
   margin-bottom: 0.5rem;
   color: #207bed;
   font-weight: 700;
+}
+
+.left__inner__content h2 {
+  font-weight: 300;
 }
